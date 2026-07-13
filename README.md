@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Mustfa AL-Khawlany 👋
 
-<!--
-**Mustfa-NetSec/Mustfa-NetSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🎓 **Academic Path:** Cybersecurity & Network Engineering Student & Passionate Independent Learner.
+- 🎯 **Career Goal:** Aspiring Network Security Developer working towards becoming a comprehensive, full-spectrum Cybersecurity Expert.
+- 🗺️ **Location:** Yemen
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills & Expertise
+
+#### 💻 Software Development
+- **Core Language:** C++ Object-Oriented Programming (OOP), Advanced Logic Building, and Algorithm Design.
+
+#### 🌐 Networking & Infrastructure
+- **Network Administration:** Routing & Switching Infrastructure, Advanced Modem/Gateway Configurations, Local Area Network (LAN) Management, and Network Security Architecture.
+
+---
+
+### 📈 Profile Status
+- ⚡ **Available for hire** for remote opportunities, internships, and technical security collaborations.
